@@ -1,0 +1,1001 @@
+Respondent_ID,Town,Vehicle_Type,Current_Brand,Purchase_Factor,Price_Paid,Satisfaction_Score
+1,Thalassery,Motorcycle,Bridgestone,Durability (Long Life),999,7
+2,Iritty,Motorcycle,JK Tyre,Price,5569,7
+3,Payyanur,Motorcycle,MRF,Price,3155,8
+4,Iritty,Motorcycle,Michelin,Durability (Long Life),3844,9
+5,Iritty,Motorcycle,MRF,Road Grip,3445,10
+6,Taliparamba,Motorcycle,JK Tyre,Price,2990,9
+7,Payyanur,Motorcycle,Apollo,Durability (Long Life),2816,9
+8,Payyanur,Car (Sedan),JK Tyre,Price,3895,7
+9,Payyanur,Motorcycle,JK Tyre,Road Grip,1679,8
+10,Iritty,Car (Hatchback),JK Tyre,Price,4400,9
+11,Thalassery,Scooter,JK Tyre,Brand Trust,3000,9
+12,Payyanur,Car (SUV),Apollo,Price,2143,4
+13,Mattannur,Motorcycle,MRF,Price,2959,4
+14,Iritty,Scooter,Apollo,Price,5008,4
+15,Taliparamba,Car (SUV),MRF,Price,2857,5
+16,Thalassery,Car (Sedan),CEAT,Durability (Long Life),3930,9
+17,Mattannur,Car (Sedan),Apollo,Price,2622,5
+18,Mattannur,Motorcycle,Bridgestone,Brand Trust,4409,8
+19,Taliparamba,Motorcycle,CEAT,Price,4322,10
+20,Thalassery,Car (Hatchback),JK Tyre,Price,5718,7
+21,Iritty,Car (SUV),MRF,Price,3289,9
+22,Kannur Town,Car (Hatchback),JK Tyre,Price,4302,7
+23,Thalassery,Car (Hatchback),Michelin,Price,3617,10
+24,Taliparamba,Motorcycle,Apollo,Durability (Long Life),5055,4
+25,Mattannur,Car (Hatchback),CEAT,Durability (Long Life),2637,9
+26,Iritty,Motorcycle,JK Tyre,Durability (Long Life),4394,6
+27,Thalassery,Scooter,MRF,Durability (Long Life),3266,5
+28,Kannur Town,Scooter,Apollo,Durability (Long Life),3422,5
+29,Kannur Town,Car (Hatchback),Apollo,Price,3610,9
+30,Payyanur,Motorcycle,MRF,Durability (Long Life),3802,10
+31,Payyanur,Motorcycle,Apollo,Mechanic Advice,3360,4
+32,Taliparamba,Car (Hatchback),MRF,Durability (Long Life),3757,5
+33,Thalassery,Motorcycle,MRF,Durability (Long Life),5393,4
+34,Thalassery,Car (Hatchback),MRF,Price,4682,8
+35,Mattannur,Motorcycle,Bridgestone,Road Grip,4542,7
+36,Mattannur,Scooter,Apollo,Road Grip,2953,10
+37,Mattannur,Car (Hatchback),Bridgestone,Durability (Long Life),2432,6
+38,Payyanur,Motorcycle,Apollo,Mechanic Advice,4646,7
+39,Thalassery,Scooter,Apollo,Price,4551,7
+40,Thalassery,Motorcycle,Apollo,Price,5267,8
+41,Kannur Town,Motorcycle,Apollo,Road Grip,2775,5
+42,Payyanur,Car (SUV),MRF,Brand Trust,3224,6
+43,Iritty,Scooter,CEAT,Price,1532,5
+44,Payyanur,Car (Sedan),MRF,Price,3029,9
+45,Iritty,Motorcycle,CEAT,Price,4695,7
+46,Kannur Town,Car (Hatchback),CEAT,Price,2940,9
+47,Taliparamba,Car (Hatchback),MRF,Road Grip,4268,4
+48,Thalassery,Car (Hatchback),MRF,Durability (Long Life),3271,7
+49,Kannur Town,Scooter,JK Tyre,Price,3888,5
+50,Thalassery,Scooter,Apollo,Price,2122,7
+51,Mattannur,Scooter,MRF,Price,3602,4
+52,Taliparamba,Car (SUV),Bridgestone,Price,89,8
+53,Taliparamba,Car (Sedan),MRF,Durability (Long Life),3275,9
+54,Kannur Town,Car (SUV),CEAT,Mechanic Advice,1543,9
+55,Taliparamba,Motorcycle,Bridgestone,Brand Trust,4947,5
+56,Iritty,Car (Hatchback),MRF,Price,4432,7
+57,Taliparamba,Car (SUV),MRF,Brand Trust,4060,5
+58,Thalassery,Motorcycle,MRF,Road Grip,5325,8
+59,Thalassery,Motorcycle,Apollo,Road Grip,2361,7
+60,Thalassery,Car (Hatchback),MRF,Durability (Long Life),5596,7
+61,Thalassery,Car (Hatchback),CEAT,Price,4618,5
+62,Iritty,Car (Sedan),MRF,Price,3216,5
+63,Payyanur,Motorcycle,Apollo,Price,4862,4
+64,Mattannur,Car (Hatchback),Bridgestone,Price,2172,10
+65,Kannur Town,Motorcycle,JK Tyre,Price,2510,10
+66,Thalassery,Motorcycle,CEAT,Durability (Long Life),2769,8
+67,Taliparamba,Motorcycle,Apollo,Road Grip,2865,10
+68,Thalassery,Car (Sedan),CEAT,Durability (Long Life),2232,4
+69,Taliparamba,Car (Hatchback),Apollo,Price,4967,9
+70,Mattannur,Car (Hatchback),Apollo,Mechanic Advice,3189,7
+71,Mattannur,Scooter,MRF,Mechanic Advice,3923,5
+72,Mattannur,Car (Sedan),JK Tyre,Road Grip,2815,7
+73,Taliparamba,Scooter,Apollo,Mechanic Advice,1315,7
+74,Thalassery,Car (Sedan),MRF,Durability (Long Life),3824,6
+75,Mattannur,Scooter,Apollo,Mechanic Advice,1205,9
+76,Iritty,Scooter,Apollo,Price,3417,6
+77,Taliparamba,Scooter,JK Tyre,Price,1858,10
+78,Taliparamba,Scooter,CEAT,Price,5884,7
+79,Thalassery,Car (Hatchback),JK Tyre,Price,4593,5
+80,Taliparamba,Car (Hatchback),MRF,Price,3626,7
+81,Taliparamba,Motorcycle,Apollo,Durability (Long Life),5016,9
+82,Mattannur,Car (Sedan),Apollo,Road Grip,2484,6
+83,Thalassery,Scooter,MRF,Durability (Long Life),4152,5
+84,Mattannur,Car (Hatchback),MRF,Price,3739,7
+85,Mattannur,Car (SUV),JK Tyre,Brand Trust,3816,8
+86,Thalassery,Car (Hatchback),MRF,Durability (Long Life),5026,9
+87,Kannur Town,Motorcycle,Apollo,Price,4378,9
+88,Mattannur,Car (SUV),MRF,Durability (Long Life),3846,8
+89,Iritty,Car (Hatchback),MRF,Price,1514,7
+90,Iritty,Scooter,MRF,Price,2347,9
+91,Taliparamba,Motorcycle,Bridgestone,Mechanic Advice,3352,5
+92,Iritty,Car (Hatchback),JK Tyre,Price,3612,7
+93,Taliparamba,Car (Hatchback),Bridgestone,Durability (Long Life),2143,7
+94,Kannur Town,Car (Hatchback),Apollo,Brand Trust,6394,6
+95,Thalassery,Car (Sedan),MRF,Road Grip,5319,9
+96,Thalassery,Car (Hatchback),Apollo,Price,4222,9
+97,Thalassery,Motorcycle,Apollo,Price,3586,8
+98,Iritty,Scooter,JK Tyre,Price,3245,6
+99,Kannur Town,Motorcycle,MRF,Durability (Long Life),2357,10
+100,Iritty,Car (Hatchback),Apollo,Durability (Long Life),3592,6
+101,Iritty,Motorcycle,MRF,Price,3809,9
+102,Kannur Town,Car (Hatchback),Apollo,Mechanic Advice,2009,7
+103,Kannur Town,Car (Hatchback),CEAT,Durability (Long Life),3901,6
+104,Kannur Town,Car (Sedan),Apollo,Price,3313,8
+105,Kannur Town,Scooter,Apollo,Durability (Long Life),1210,6
+106,Thalassery,Car (Sedan),Apollo,Durability (Long Life),2467,8
+107,Payyanur,Motorcycle,Apollo,Price,3003,10
+108,Payyanur,Car (Sedan),JK Tyre,Price,5765,6
+109,Kannur Town,Motorcycle,JK Tyre,Brand Trust,4167,8
+110,Payyanur,Scooter,Bridgestone,Durability (Long Life),1897,6
+111,Payyanur,Car (Hatchback),JK Tyre,Durability (Long Life),4083,10
+112,Kannur Town,Motorcycle,Apollo,Durability (Long Life),1643,6
+113,Payyanur,Motorcycle,CEAT,Price,4799,5
+114,Iritty,Car (Hatchback),Apollo,Price,2934,8
+115,Taliparamba,Car (Hatchback),MRF,Durability (Long Life),3387,10
+116,Taliparamba,Car (Hatchback),JK Tyre,Price,5090,8
+117,Kannur Town,Car (Hatchback),MRF,Price,1955,8
+118,Thalassery,Car (Hatchback),Michelin,Brand Trust,1823,4
+119,Kannur Town,Motorcycle,Apollo,Mechanic Advice,2799,10
+120,Thalassery,Scooter,CEAT,Road Grip,4746,6
+121,Taliparamba,Motorcycle,CEAT,Brand Trust,1676,8
+122,Kannur Town,Car (SUV),JK Tyre,Price,101,9
+123,Mattannur,Car (Hatchback),CEAT,Mechanic Advice,2958,4
+124,Iritty,Scooter,CEAT,Price,4162,5
+125,Payyanur,Scooter,MRF,Mechanic Advice,4940,8
+126,Thalassery,Car (SUV),Apollo,Mechanic Advice,2944,8
+127,Mattannur,Motorcycle,MRF,Road Grip,3006,4
+128,Payyanur,Car (Hatchback),CEAT,Mechanic Advice,4884,6
+129,Payyanur,Car (Hatchback),Apollo,Durability (Long Life),1256,9
+130,Kannur Town,Car (Hatchback),CEAT,Price,3033,5
+131,Payyanur,Motorcycle,MRF,Durability (Long Life),3728,8
+132,Iritty,Car (Sedan),MRF,Durability (Long Life),4039,6
+133,Mattannur,Car (SUV),CEAT,Price,2888,10
+134,Payyanur,Car (Hatchback),MRF,Durability (Long Life),3541,9
+135,Kannur Town,Car (Hatchback),MRF,Mechanic Advice,514,10
+136,Iritty,Car (SUV),MRF,Price,2710,9
+137,Taliparamba,Car (Hatchback),Bridgestone,Road Grip,4044,5
+138,Mattannur,Motorcycle,CEAT,Mechanic Advice,2321,7
+139,Payyanur,Car (Hatchback),Apollo,Mechanic Advice,3570,9
+140,Kannur Town,Car (Hatchback),MRF,Mechanic Advice,4036,7
+141,Taliparamba,Scooter,Apollo,Durability (Long Life),3088,10
+142,Taliparamba,Car (Hatchback),JK Tyre,Mechanic Advice,3704,9
+143,Thalassery,Car (SUV),CEAT,Road Grip,2344,5
+144,Iritty,Car (SUV),MRF,Price,3252,4
+145,Payyanur,Scooter,MRF,Durability (Long Life),4232,5
+146,Kannur Town,Motorcycle,MRF,Road Grip,3688,5
+147,Thalassery,Car (SUV),CEAT,Price,2796,4
+148,Iritty,Car (Sedan),JK Tyre,Durability (Long Life),3769,4
+149,Thalassery,Motorcycle,MRF,Durability (Long Life),4357,6
+150,Mattannur,Car (SUV),MRF,Price,1040,9
+151,Iritty,Car (Sedan),MRF,Durability (Long Life),4890,10
+152,Iritty,Car (Hatchback),Bridgestone,Road Grip,3096,6
+153,Payyanur,Car (Hatchback),MRF,Durability (Long Life),4010,4
+154,Iritty,Scooter,JK Tyre,Price,4936,7
+155,Thalassery,Motorcycle,CEAT,Price,1853,10
+156,Iritty,Scooter,Apollo,Price,2648,7
+157,Payyanur,Car (Sedan),MRF,Mechanic Advice,3153,5
+158,Payyanur,Motorcycle,MRF,Price,2559,8
+159,Mattannur,Scooter,CEAT,Durability (Long Life),5581,5
+160,Thalassery,Scooter,JK Tyre,Price,2471,5
+161,Taliparamba,Car (Hatchback),CEAT,Price,2833,8
+162,Taliparamba,Car (SUV),Apollo,Brand Trust,3745,9
+163,Iritty,Scooter,MRF,Road Grip,2057,4
+164,Mattannur,Scooter,Bridgestone,Price,3025,7
+165,Kannur Town,Car (Hatchback),JK Tyre,Durability (Long Life),3880,5
+166,Iritty,Scooter,MRF,Price,3100,8
+167,Mattannur,Motorcycle,Bridgestone,Durability (Long Life),3387,6
+168,Thalassery,Scooter,CEAT,Durability (Long Life),2864,5
+169,Thalassery,Motorcycle,CEAT,Price,1682,7
+170,Thalassery,Motorcycle,CEAT,Price,3885,4
+171,Thalassery,Scooter,JK Tyre,Price,5605,5
+172,Thalassery,Scooter,CEAT,Mechanic Advice,3522,5
+173,Mattannur,Car (SUV),MRF,Mechanic Advice,3770,9
+174,Mattannur,Scooter,Apollo,Price,4331,8
+175,Payyanur,Car (Hatchback),Michelin,Road Grip,1976,6
+176,Taliparamba,Car (Hatchback),MRF,Price,5543,6
+177,Thalassery,Motorcycle,Apollo,Price,3742,10
+178,Kannur Town,Car (Hatchback),Apollo,Road Grip,5458,4
+179,Mattannur,Motorcycle,Apollo,Mechanic Advice,2620,10
+180,Kannur Town,Car (SUV),CEAT,Mechanic Advice,5681,7
+181,Kannur Town,Motorcycle,Michelin,Durability (Long Life),4430,4
+182,Kannur Town,Scooter,MRF,Price,4163,5
+183,Payyanur,Motorcycle,MRF,Road Grip,3780,5
+184,Mattannur,Car (SUV),MRF,Price,3201,6
+185,Kannur Town,Car (Hatchback),JK Tyre,Durability (Long Life),4940,7
+186,Thalassery,Car (Hatchback),CEAT,Price,3668,8
+187,Iritty,Motorcycle,MRF,Durability (Long Life),1139,7
+188,Kannur Town,Car (Hatchback),JK Tyre,Price,2159,5
+189,Payyanur,Motorcycle,JK Tyre,Price,3276,8
+190,Mattannur,Car (Sedan),JK Tyre,Mechanic Advice,3871,7
+191,Payyanur,Motorcycle,Michelin,Price,3432,7
+192,Kannur Town,Motorcycle,MRF,Durability (Long Life),4962,8
+193,Mattannur,Motorcycle,JK Tyre,Price,1158,5
+194,Iritty,Scooter,Apollo,Price,3672,7
+195,Kannur Town,Car (Hatchback),JK Tyre,Price,1318,8
+196,Payyanur,Motorcycle,CEAT,Price,4411,9
+197,Taliparamba,Car (Hatchback),JK Tyre,Brand Trust,3386,9
+198,Thalassery,Scooter,CEAT,Price,4003,5
+199,Payyanur,Car (Hatchback),MRF,Mechanic Advice,2463,8
+200,Mattannur,Scooter,Apollo,Durability (Long Life),5035,9
+201,Kannur Town,Scooter,Bridgestone,Durability (Long Life),4750,8
+202,Thalassery,Car (Hatchback),Michelin,Durability (Long Life),4200,7
+203,Kannur Town,Motorcycle,MRF,Durability (Long Life),3344,5
+204,Mattannur,Motorcycle,MRF,Road Grip,4195,9
+205,Kannur Town,Car (Sedan),MRF,Price,2651,10
+206,Taliparamba,Car (SUV),CEAT,Price,4526,7
+207,Thalassery,Scooter,JK Tyre,Brand Trust,5479,10
+208,Thalassery,Motorcycle,MRF,Mechanic Advice,4784,10
+209,Mattannur,Car (Hatchback),Apollo,Brand Trust,2624,4
+210,Taliparamba,Scooter,JK Tyre,Durability (Long Life),3933,4
+211,Payyanur,Motorcycle,CEAT,Road Grip,1948,5
+212,Kannur Town,Motorcycle,Apollo,Durability (Long Life),4186,9
+213,Iritty,Car (Hatchback),CEAT,Durability (Long Life),4040,9
+214,Kannur Town,Car (Hatchback),Apollo,Price,1256,9
+215,Kannur Town,Motorcycle,MRF,Durability (Long Life),2105,8
+216,Payyanur,Motorcycle,CEAT,Price,3160,7
+217,Kannur Town,Motorcycle,CEAT,Price,3138,9
+218,Taliparamba,Car (Hatchback),JK Tyre,Brand Trust,2048,7
+219,Taliparamba,Motorcycle,CEAT,Price,3966,5
+220,Thalassery,Motorcycle,JK Tyre,Price,3801,10
+221,Mattannur,Car (Hatchback),MRF,Price,3266,9
+222,Iritty,Motorcycle,Apollo,Mechanic Advice,2593,5
+223,Kannur Town,Car (Hatchback),MRF,Durability (Long Life),4758,9
+224,Kannur Town,Motorcycle,MRF,Durability (Long Life),5486,4
+225,Payyanur,Motorcycle,CEAT,Brand Trust,2919,6
+226,Mattannur,Motorcycle,Bridgestone,Brand Trust,2765,5
+227,Taliparamba,Car (Hatchback),MRF,Price,4089,9
+228,Iritty,Car (Sedan),Apollo,Durability (Long Life),3070,6
+229,Thalassery,Car (Sedan),JK Tyre,Road Grip,3332,5
+230,Taliparamba,Scooter,MRF,Durability (Long Life),4387,8
+231,Mattannur,Car (Hatchback),CEAT,Price,1208,9
+232,Thalassery,Motorcycle,CEAT,Brand Trust,5081,8
+233,Payyanur,Motorcycle,CEAT,Durability (Long Life),3587,4
+234,Payyanur,Car (Sedan),MRF,Price,3006,9
+235,Kannur Town,Motorcycle,Apollo,Durability (Long Life),3392,10
+236,Mattannur,Motorcycle,JK Tyre,Price,3454,4
+237,Iritty,Motorcycle,CEAT,Price,1422,6
+238,Thalassery,Motorcycle,MRF,Road Grip,5293,5
+239,Taliparamba,Motorcycle,JK Tyre,Price,3549,7
+240,Mattannur,Car (Hatchback),MRF,Durability (Long Life),4031,4
+241,Mattannur,Scooter,CEAT,Durability (Long Life),4641,7
+242,Payyanur,Car (Sedan),MRF,Price,2274,7
+243,Kannur Town,Car (Sedan),Bridgestone,Mechanic Advice,4068,5
+244,Kannur Town,Scooter,Apollo,Price,3178,6
+245,Thalassery,Motorcycle,Apollo,Price,4516,5
+246,Payyanur,Scooter,MRF,Price,947,9
+247,Mattannur,Car (Hatchback),Apollo,Price,3381,4
+248,Iritty,Motorcycle,JK Tyre,Price,2776,7
+249,Payyanur,Car (Hatchback),Bridgestone,Road Grip,4018,5
+250,Thalassery,Scooter,Apollo,Mechanic Advice,4064,5
+251,Thalassery,Car (Hatchback),Apollo,Price,2650,5
+252,Payyanur,Scooter,CEAT,Durability (Long Life),2645,4
+253,Thalassery,Motorcycle,JK Tyre,Road Grip,3367,6
+254,Payyanur,Car (SUV),CEAT,Brand Trust,2424,10
+255,Taliparamba,Car (Hatchback),Apollo,Durability (Long Life),4510,5
+256,Payyanur,Motorcycle,Apollo,Price,3056,4
+257,Payyanur,Car (Sedan),CEAT,Price,11,7
+258,Thalassery,Scooter,MRF,Road Grip,3050,9
+259,Thalassery,Car (Sedan),CEAT,Brand Trust,2253,10
+260,Kannur Town,Car (Hatchback),Apollo,Price,1542,8
+261,Kannur Town,Scooter,JK Tyre,Price,2015,10
+262,Taliparamba,Motorcycle,MRF,Mechanic Advice,3631,10
+263,Kannur Town,Motorcycle,CEAT,Brand Trust,5094,4
+264,Payyanur,Car (Hatchback),Apollo,Mechanic Advice,3875,8
+265,Thalassery,Car (Hatchback),CEAT,Road Grip,2772,5
+266,Kannur Town,Motorcycle,MRF,Price,4047,5
+267,Kannur Town,Motorcycle,CEAT,Durability (Long Life),2949,10
+268,Taliparamba,Car (Sedan),CEAT,Durability (Long Life),2666,4
+269,Mattannur,Car (SUV),CEAT,Price,2114,8
+270,Taliparamba,Car (Hatchback),CEAT,Durability (Long Life),1397,5
+271,Payyanur,Motorcycle,CEAT,Road Grip,3032,7
+272,Thalassery,Motorcycle,JK Tyre,Price,3689,6
+273,Taliparamba,Motorcycle,MRF,Road Grip,3384,6
+274,Kannur Town,Car (SUV),JK Tyre,Durability (Long Life),3000,5
+275,Thalassery,Motorcycle,Apollo,Mechanic Advice,2365,8
+276,Thalassery,Car (Hatchback),MRF,Price,4229,9
+277,Kannur Town,Motorcycle,MRF,Price,1919,5
+278,Taliparamba,Car (Hatchback),Apollo,Durability (Long Life),4431,9
+279,Kannur Town,Car (Hatchback),JK Tyre,Price,2297,9
+280,Mattannur,Car (Sedan),CEAT,Road Grip,2597,8
+281,Thalassery,Motorcycle,JK Tyre,Road Grip,1739,9
+282,Iritty,Motorcycle,Apollo,Price,2898,7
+283,Iritty,Motorcycle,Apollo,Durability (Long Life),4670,8
+284,Payyanur,Car (SUV),MRF,Durability (Long Life),4118,5
+285,Kannur Town,Car (Sedan),Apollo,Price,4674,10
+286,Kannur Town,Car (Hatchback),Apollo,Mechanic Advice,4126,7
+287,Payyanur,Car (Hatchback),MRF,Brand Trust,2175,4
+288,Payyanur,Car (Hatchback),MRF,Durability (Long Life),3103,6
+289,Payyanur,Motorcycle,CEAT,Road Grip,2563,5
+290,Thalassery,Car (SUV),CEAT,Durability (Long Life),5096,5
+291,Mattannur,Scooter,Bridgestone,Mechanic Advice,2063,5
+292,Kannur Town,Scooter,Michelin,Durability (Long Life),4572,7
+293,Thalassery,Car (Hatchback),CEAT,Road Grip,4571,4
+294,Payyanur,Motorcycle,Apollo,Brand Trust,5695,10
+295,Kannur Town,Motorcycle,CEAT,Price,3008,8
+296,Thalassery,Car (Hatchback),JK Tyre,Brand Trust,4354,4
+297,Mattannur,Motorcycle,MRF,Price,6237,7
+298,Thalassery,Car (Hatchback),Apollo,Price,2758,5
+299,Mattannur,Motorcycle,JK Tyre,Price,1657,6
+300,Payyanur,Scooter,Apollo,Mechanic Advice,1243,5
+301,Mattannur,Motorcycle,CEAT,Brand Trust,4355,8
+302,Kannur Town,Scooter,CEAT,Road Grip,1240,9
+303,Payyanur,Car (Hatchback),MRF,Road Grip,3053,6
+304,Kannur Town,Motorcycle,Apollo,Durability (Long Life),4024,5
+305,Iritty,Car (Hatchback),Apollo,Mechanic Advice,3722,10
+306,Taliparamba,Scooter,MRF,Durability (Long Life),4010,6
+307,Mattannur,Car (Hatchback),MRF,Price,3766,9
+308,Taliparamba,Car (SUV),JK Tyre,Price,5034,4
+309,Taliparamba,Car (Hatchback),MRF,Road Grip,2357,7
+310,Mattannur,Motorcycle,Apollo,Road Grip,2687,5
+311,Payyanur,Motorcycle,MRF,Price,2572,8
+312,Iritty,Motorcycle,Michelin,Price,4496,4
+313,Kannur Town,Car (Hatchback),MRF,Brand Trust,4580,5
+314,Thalassery,Motorcycle,Apollo,Price,4041,4
+315,Kannur Town,Scooter,JK Tyre,Road Grip,4920,8
+316,Thalassery,Car (Hatchback),JK Tyre,Mechanic Advice,2086,5
+317,Kannur Town,Scooter,MRF,Durability (Long Life),5500,9
+318,Mattannur,Car (Hatchback),JK Tyre,Price,5327,9
+319,Iritty,Motorcycle,Apollo,Road Grip,4382,8
+320,Thalassery,Motorcycle,Apollo,Brand Trust,5638,6
+321,Payyanur,Car (Hatchback),MRF,Durability (Long Life),1512,8
+322,Kannur Town,Scooter,MRF,Mechanic Advice,2870,6
+323,Kannur Town,Car (Hatchback),CEAT,Price,2617,5
+324,Thalassery,Scooter,Apollo,Durability (Long Life),4365,6
+325,Payyanur,Motorcycle,Apollo,Road Grip,2239,5
+326,Payyanur,Car (Sedan),CEAT,Brand Trust,4408,5
+327,Mattannur,Car (Hatchback),JK Tyre,Price,5144,10
+328,Mattannur,Car (Hatchback),MRF,Brand Trust,4334,7
+329,Mattannur,Motorcycle,CEAT,Durability (Long Life),3840,5
+330,Mattannur,Car (Hatchback),MRF,Price,2314,6
+331,Mattannur,Scooter,JK Tyre,Price,2483,7
+332,Mattannur,Motorcycle,CEAT,Brand Trust,4999,7
+333,Iritty,Car (SUV),Bridgestone,Price,4435,5
+334,Payyanur,Motorcycle,MRF,Price,3453,8
+335,Mattannur,Car (SUV),MRF,Price,2998,8
+336,Payyanur,Scooter,MRF,Brand Trust,1069,9
+337,Payyanur,Motorcycle,MRF,Durability (Long Life),2214,7
+338,Taliparamba,Car (Hatchback),MRF,Road Grip,5793,5
+339,Iritty,Car (Sedan),Michelin,Price,1963,10
+340,Mattannur,Car (Hatchback),MRF,Durability (Long Life),3727,8
+341,Kannur Town,Car (Sedan),MRF,Durability (Long Life),4708,10
+342,Thalassery,Car (Hatchback),JK Tyre,Brand Trust,1994,5
+343,Kannur Town,Car (Hatchback),Apollo,Mechanic Advice,3721,5
+344,Iritty,Car (Sedan),JK Tyre,Price,4625,7
+345,Thalassery,Motorcycle,MRF,Durability (Long Life),3514,10
+346,Iritty,Scooter,Apollo,Price,6942,9
+347,Payyanur,Motorcycle,MRF,Durability (Long Life),1497,7
+348,Thalassery,Car (SUV),MRF,Price,4770,4
+349,Payyanur,Car (SUV),Michelin,Price,3292,10
+350,Kannur Town,Motorcycle,MRF,Price,4426,8
+351,Kannur Town,Car (Hatchback),Apollo,Durability (Long Life),4029,8
+352,Thalassery,Car (SUV),Apollo,Price,2620,8
+353,Thalassery,Motorcycle,Apollo,Road Grip,3774,6
+354,Mattannur,Car (Hatchback),JK Tyre,Durability (Long Life),1270,5
+355,Iritty,Car (SUV),MRF,Price,4223,7
+356,Mattannur,Motorcycle,CEAT,Road Grip,3857,8
+357,Iritty,Car (Hatchback),Bridgestone,Price,4266,4
+358,Mattannur,Motorcycle,CEAT,Durability (Long Life),4769,8
+359,Payyanur,Car (SUV),Michelin,Durability (Long Life),3941,9
+360,Thalassery,Car (SUV),MRF,Price,3677,5
+361,Kannur Town,Car (SUV),Apollo,Price,2442,10
+362,Iritty,Scooter,MRF,Price,2645,5
+363,Iritty,Car (Sedan),CEAT,Mechanic Advice,4924,10
+364,Kannur Town,Car (Sedan),Bridgestone,Durability (Long Life),5223,10
+365,Mattannur,Scooter,MRF,Durability (Long Life),3214,7
+366,Iritty,Car (Sedan),CEAT,Durability (Long Life),3555,6
+367,Payyanur,Motorcycle,MRF,Price,2414,10
+368,Thalassery,Car (Hatchback),CEAT,Durability (Long Life),4907,10
+369,Kannur Town,Motorcycle,Apollo,Road Grip,4298,7
+370,Thalassery,Motorcycle,Bridgestone,Price,5829,8
+371,Iritty,Motorcycle,CEAT,Price,2446,9
+372,Iritty,Car (Hatchback),Apollo,Price,3046,4
+373,Kannur Town,Scooter,MRF,Durability (Long Life),3777,7
+374,Payyanur,Car (Hatchback),MRF,Mechanic Advice,4275,6
+375,Taliparamba,Motorcycle,MRF,Price,3241,7
+376,Kannur Town,Scooter,MRF,Durability (Long Life),2452,5
+377,Taliparamba,Car (Hatchback),JK Tyre,Price,4557,8
+378,Mattannur,Car (Hatchback),CEAT,Mechanic Advice,4365,8
+379,Taliparamba,Scooter,Apollo,Price,2400,10
+380,Payyanur,Car (Hatchback),MRF,Durability (Long Life),5126,8
+381,Mattannur,Car (Sedan),JK Tyre,Road Grip,4904,8
+382,Taliparamba,Car (Hatchback),CEAT,Road Grip,3661,8
+383,Mattannur,Motorcycle,MRF,Durability (Long Life),3595,8
+384,Taliparamba,Motorcycle,CEAT,Price,4164,4
+385,Payyanur,Car (Sedan),Apollo,Price,2465,6
+386,Taliparamba,Motorcycle,MRF,Price,3536,10
+387,Taliparamba,Car (Sedan),Apollo,Price,917,8
+388,Taliparamba,Car (Hatchback),Apollo,Durability (Long Life),4551,10
+389,Kannur Town,Car (SUV),MRF,Price,1626,6
+390,Kannur Town,Car (Hatchback),Michelin,Price,5304,9
+391,Kannur Town,Car (SUV),JK Tyre,Durability (Long Life),3103,8
+392,Payyanur,Scooter,CEAT,Mechanic Advice,3245,10
+393,Mattannur,Car (Hatchback),Apollo,Durability (Long Life),2746,7
+394,Iritty,Scooter,Apollo,Price,3154,10
+395,Taliparamba,Scooter,CEAT,Price,5202,8
+396,Taliparamba,Car (Hatchback),Apollo,Mechanic Advice,514,5
+397,Payyanur,Car (Sedan),MRF,Price,5032,4
+398,Taliparamba,Car (SUV),Apollo,Price,3905,7
+399,Kannur Town,Car (Hatchback),JK Tyre,Durability (Long Life),2051,7
+400,Iritty,Scooter,Apollo,Durability (Long Life),2209,5
+401,Thalassery,Scooter,MRF,Durability (Long Life),5511,8
+402,Taliparamba,Car (Hatchback),JK Tyre,Price,2365,4
+403,Kannur Town,Motorcycle,MRF,Price,2115,7
+404,Thalassery,Motorcycle,MRF,Mechanic Advice,4864,4
+405,Iritty,Scooter,MRF,Price,3906,7
+406,Thalassery,Motorcycle,Apollo,Durability (Long Life),2374,8
+407,Kannur Town,Motorcycle,JK Tyre,Road Grip,3759,9
+408,Mattannur,Motorcycle,Apollo,Durability (Long Life),2269,7
+409,Mattannur,Motorcycle,MRF,Price,4820,9
+410,Thalassery,Motorcycle,JK Tyre,Price,4773,7
+411,Payyanur,Car (SUV),JK Tyre,Durability (Long Life),4138,6
+412,Thalassery,Scooter,JK Tyre,Brand Trust,3933,8
+413,Taliparamba,Scooter,MRF,Mechanic Advice,5613,5
+414,Taliparamba,Car (Hatchback),Apollo,Price,3499,9
+415,Mattannur,Motorcycle,Bridgestone,Price,2081,5
+416,Payyanur,Car (SUV),JK Tyre,Mechanic Advice,4039,8
+417,Kannur Town,Car (Hatchback),MRF,Road Grip,6003,10
+418,Taliparamba,Motorcycle,MRF,Brand Trust,2282,5
+419,Mattannur,Scooter,Apollo,Price,3066,8
+420,Iritty,Car (Sedan),Michelin,Durability (Long Life),3999,5
+421,Mattannur,Car (SUV),Apollo,Road Grip,3435,9
+422,Taliparamba,Scooter,Apollo,Durability (Long Life),2321,6
+423,Taliparamba,Car (Hatchback),MRF,Durability (Long Life),4846,5
+424,Mattannur,Motorcycle,CEAT,Price,6284,9
+425,Kannur Town,Car (SUV),JK Tyre,Durability (Long Life),3735,7
+426,Thalassery,Motorcycle,Apollo,Price,2415,8
+427,Taliparamba,Car (SUV),JK Tyre,Durability (Long Life),1641,4
+428,Mattannur,Car (Hatchback),Bridgestone,Mechanic Advice,3809,10
+429,Mattannur,Car (Hatchback),MRF,Price,4824,4
+430,Payyanur,Car (Hatchback),Apollo,Brand Trust,4070,8
+431,Thalassery,Motorcycle,MRF,Price,3497,6
+432,Iritty,Motorcycle,JK Tyre,Durability (Long Life),2792,5
+433,Kannur Town,Motorcycle,CEAT,Mechanic Advice,2189,6
+434,Iritty,Motorcycle,CEAT,Price,4501,4
+435,Thalassery,Car (Hatchback),JK Tyre,Price,4596,10
+436,Thalassery,Scooter,Apollo,Durability (Long Life),1645,9
+437,Thalassery,Motorcycle,Michelin,Price,5407,10
+438,Iritty,Car (SUV),Apollo,Road Grip,4188,8
+439,Thalassery,Car (Sedan),MRF,Mechanic Advice,5179,8
+440,Mattannur,Car (SUV),CEAT,Durability (Long Life),1889,6
+441,Iritty,Car (SUV),JK Tyre,Price,1861,9
+442,Thalassery,Motorcycle,Apollo,Durability (Long Life),3321,6
+443,Mattannur,Scooter,JK Tyre,Road Grip,4103,5
+444,Payyanur,Car (Hatchback),Michelin,Price,5655,7
+445,Thalassery,Car (Hatchback),MRF,Durability (Long Life),4347,9
+446,Iritty,Motorcycle,Bridgestone,Durability (Long Life),3208,7
+447,Taliparamba,Car (Sedan),MRF,Durability (Long Life),2268,10
+448,Thalassery,Motorcycle,MRF,Price,4976,5
+449,Taliparamba,Motorcycle,MRF,Road Grip,2342,7
+450,Mattannur,Car (Hatchback),JK Tyre,Price,5454,4
+451,Payyanur,Car (Hatchback),CEAT,Price,3158,10
+452,Kannur Town,Car (Hatchback),MRF,Brand Trust,5408,7
+453,Payyanur,Motorcycle,Apollo,Road Grip,4314,5
+454,Thalassery,Car (Sedan),CEAT,Price,3335,7
+455,Taliparamba,Motorcycle,MRF,Price,2876,8
+456,Taliparamba,Motorcycle,JK Tyre,Price,3090,6
+457,Iritty,Car (Sedan),JK Tyre,Price,4013,4
+458,Taliparamba,Car (SUV),Apollo,Price,3592,8
+459,Iritty,Car (Sedan),Bridgestone,Price,2787,8
+460,Mattannur,Car (Sedan),Apollo,Durability (Long Life),3301,5
+461,Kannur Town,Car (Hatchback),Bridgestone,Road Grip,3594,6
+462,Thalassery,Car (Hatchback),CEAT,Durability (Long Life),945,6
+463,Iritty,Motorcycle,CEAT,Durability (Long Life),4049,9
+464,Kannur Town,Scooter,MRF,Price,2324,10
+465,Taliparamba,Scooter,JK Tyre,Mechanic Advice,2116,4
+466,Taliparamba,Motorcycle,Apollo,Brand Trust,1475,10
+467,Kannur Town,Car (Hatchback),MRF,Brand Trust,1347,5
+468,Taliparamba,Scooter,MRF,Brand Trust,1873,4
+469,Mattannur,Motorcycle,CEAT,Mechanic Advice,2649,9
+470,Mattannur,Motorcycle,Apollo,Durability (Long Life),5843,7
+471,Kannur Town,Car (Hatchback),CEAT,Price,2868,8
+472,Iritty,Motorcycle,JK Tyre,Durability (Long Life),3713,4
+473,Iritty,Car (Sedan),MRF,Road Grip,3980,10
+474,Kannur Town,Scooter,CEAT,Road Grip,3657,8
+475,Iritty,Scooter,MRF,Durability (Long Life),3407,5
+476,Iritty,Car (Hatchback),JK Tyre,Price,2065,10
+477,Mattannur,Car (Sedan),JK Tyre,Price,5241,7
+478,Iritty,Scooter,Apollo,Mechanic Advice,5668,5
+479,Payyanur,Car (Hatchback),CEAT,Durability (Long Life),1480,7
+480,Thalassery,Car (Hatchback),Apollo,Durability (Long Life),2271,7
+481,Taliparamba,Motorcycle,Apollo,Price,3164,8
+482,Payyanur,Car (Sedan),JK Tyre,Price,2342,5
+483,Iritty,Car (Hatchback),Apollo,Brand Trust,4107,5
+484,Mattannur,Car (Hatchback),Apollo,Durability (Long Life),2626,4
+485,Kannur Town,Car (Sedan),Apollo,Road Grip,6098,10
+486,Iritty,Car (Sedan),JK Tyre,Durability (Long Life),4928,5
+487,Mattannur,Car (Hatchback),Apollo,Durability (Long Life),3755,4
+488,Thalassery,Car (Sedan),MRF,Price,4732,6
+489,Iritty,Car (Hatchback),CEAT,Road Grip,4827,6
+490,Kannur Town,Car (Hatchback),JK Tyre,Durability (Long Life),2823,6
+491,Mattannur,Car (Hatchback),MRF,Durability (Long Life),2520,9
+492,Mattannur,Car (Hatchback),MRF,Durability (Long Life),3593,5
+493,Mattannur,Motorcycle,MRF,Mechanic Advice,4533,9
+494,Thalassery,Car (Sedan),Apollo,Price,3666,10
+495,Iritty,Car (Sedan),Apollo,Brand Trust,1607,5
+496,Thalassery,Motorcycle,CEAT,Price,2536,4
+497,Taliparamba,Car (Sedan),CEAT,Durability (Long Life),3411,9
+498,Taliparamba,Motorcycle,CEAT,Price,3409,9
+499,Iritty,Scooter,Apollo,Price,5867,10
+500,Thalassery,Car (Hatchback),JK Tyre,Durability (Long Life),1836,9
+501,Kannur Town,Motorcycle,Apollo,Price,4106,7
+502,Mattannur,Car (Sedan),Bridgestone,Durability (Long Life),5286,4
+503,Mattannur,Car (Sedan),CEAT,Mechanic Advice,6225,6
+504,Iritty,Car (Hatchback),MRF,Price,3014,4
+505,Taliparamba,Motorcycle,CEAT,Road Grip,4089,7
+506,Taliparamba,Motorcycle,Apollo,Durability (Long Life),4183,10
+507,Mattannur,Car (Hatchback),CEAT,Durability (Long Life),3734,10
+508,Iritty,Car (SUV),MRF,Price,3381,5
+509,Thalassery,Car (Hatchback),MRF,Price,4023,4
+510,Taliparamba,Motorcycle,JK Tyre,Price,461,10
+511,Thalassery,Car (Hatchback),MRF,Price,4318,9
+512,Taliparamba,Car (Hatchback),JK Tyre,Price,3651,10
+513,Taliparamba,Car (Hatchback),MRF,Durability (Long Life),3233,10
+514,Payyanur,Motorcycle,CEAT,Brand Trust,5956,10
+515,Taliparamba,Car (Hatchback),CEAT,Brand Trust,2690,10
+516,Kannur Town,Car (Hatchback),Apollo,Durability (Long Life),3016,6
+517,Iritty,Car (SUV),Apollo,Price,5889,6
+518,Iritty,Scooter,MRF,Price,2501,5
+519,Thalassery,Car (Hatchback),MRF,Price,2839,10
+520,Taliparamba,Car (SUV),Apollo,Price,3323,4
+521,Kannur Town,Motorcycle,CEAT,Durability (Long Life),4508,7
+522,Thalassery,Car (SUV),Michelin,Durability (Long Life),3749,5
+523,Payyanur,Car (Hatchback),JK Tyre,Price,1948,4
+524,Thalassery,Motorcycle,JK Tyre,Price,2861,10
+525,Thalassery,Scooter,JK Tyre,Brand Trust,2771,8
+526,Taliparamba,Car (Hatchback),CEAT,Road Grip,3407,10
+527,Payyanur,Motorcycle,MRF,Price,4011,6
+528,Thalassery,Car (Hatchback),Michelin,Mechanic Advice,4001,7
+529,Kannur Town,Scooter,CEAT,Mechanic Advice,1368,9
+530,Kannur Town,Car (Hatchback),CEAT,Price,4776,7
+531,Iritty,Motorcycle,MRF,Price,3803,9
+532,Payyanur,Car (Sedan),Apollo,Durability (Long Life),5161,7
+533,Payyanur,Car (SUV),Apollo,Mechanic Advice,4033,6
+534,Iritty,Car (SUV),JK Tyre,Brand Trust,4821,9
+535,Thalassery,Car (Hatchback),Apollo,Price,4059,4
+536,Payyanur,Motorcycle,Apollo,Price,5115,9
+537,Kannur Town,Car (Hatchback),Bridgestone,Durability (Long Life),4126,5
+538,Kannur Town,Motorcycle,MRF,Durability (Long Life),3382,4
+539,Taliparamba,Motorcycle,Apollo,Price,6226,5
+540,Payyanur,Scooter,MRF,Brand Trust,4566,10
+541,Thalassery,Scooter,CEAT,Durability (Long Life),4188,7
+542,Iritty,Car (Hatchback),Michelin,Brand Trust,1968,4
+543,Iritty,Car (Hatchback),MRF,Brand Trust,1954,7
+544,Thalassery,Scooter,JK Tyre,Road Grip,3851,10
+545,Mattannur,Motorcycle,MRF,Durability (Long Life),3674,8
+546,Taliparamba,Car (SUV),Michelin,Durability (Long Life),2763,7
+547,Iritty,Scooter,JK Tyre,Price,3669,10
+548,Payyanur,Scooter,JK Tyre,Durability (Long Life),5406,7
+549,Taliparamba,Motorcycle,MRF,Price,4334,10
+550,Payyanur,Car (Hatchback),Bridgestone,Durability (Long Life),2130,5
+551,Kannur Town,Car (Hatchback),CEAT,Price,3366,10
+552,Taliparamba,Motorcycle,Apollo,Price,2534,9
+553,Iritty,Motorcycle,JK Tyre,Price,3034,8
+554,Taliparamba,Car (Hatchback),MRF,Price,3003,7
+555,Taliparamba,Car (Hatchback),JK Tyre,Road Grip,2926,10
+556,Taliparamba,Motorcycle,MRF,Road Grip,1993,10
+557,Mattannur,Car (SUV),CEAT,Durability (Long Life),3346,7
+558,Taliparamba,Motorcycle,Apollo,Price,2827,8
+559,Payyanur,Scooter,MRF,Price,15,8
+560,Kannur Town,Car (SUV),MRF,Price,5963,10
+561,Thalassery,Scooter,MRF,Price,4806,4
+562,Taliparamba,Car (Hatchback),Apollo,Brand Trust,3048,5
+563,Iritty,Scooter,Apollo,Price,3522,8
+564,Taliparamba,Motorcycle,CEAT,Price,2094,8
+565,Iritty,Car (SUV),MRF,Price,5534,6
+566,Payyanur,Scooter,MRF,Price,5776,9
+567,Iritty,Car (Sedan),CEAT,Durability (Long Life),3688,8
+568,Thalassery,Motorcycle,MRF,Durability (Long Life),4728,5
+569,Kannur Town,Motorcycle,Michelin,Price,3710,9
+570,Iritty,Motorcycle,JK Tyre,Price,1895,9
+571,Iritty,Car (Hatchback),CEAT,Price,3005,7
+572,Kannur Town,Scooter,CEAT,Price,3658,7
+573,Thalassery,Car (Sedan),JK Tyre,Price,2954,7
+574,Taliparamba,Scooter,MRF,Mechanic Advice,3237,7
+575,Iritty,Car (SUV),MRF,Durability (Long Life),3390,6
+576,Kannur Town,Motorcycle,MRF,Durability (Long Life),3402,8
+577,Payyanur,Car (Sedan),JK Tyre,Durability (Long Life),3562,7
+578,Kannur Town,Car (Hatchback),MRF,Durability (Long Life),2227,10
+579,Payyanur,Car (Hatchback),CEAT,Durability (Long Life),2639,4
+580,Thalassery,Car (Sedan),Bridgestone,Durability (Long Life),1958,7
+581,Taliparamba,Car (Hatchback),JK Tyre,Road Grip,4673,8
+582,Kannur Town,Car (Hatchback),Apollo,Price,973,7
+583,Mattannur,Motorcycle,MRF,Durability (Long Life),4884,6
+584,Iritty,Motorcycle,JK Tyre,Durability (Long Life),5163,5
+585,Thalassery,Car (SUV),CEAT,Brand Trust,3137,5
+586,Kannur Town,Car (Hatchback),MRF,Durability (Long Life),376,8
+587,Iritty,Car (Hatchback),MRF,Durability (Long Life),3066,10
+588,Kannur Town,Scooter,Michelin,Price,3422,5
+589,Payyanur,Motorcycle,CEAT,Durability (Long Life),2287,5
+590,Kannur Town,Motorcycle,JK Tyre,Price,2881,4
+591,Mattannur,Car (Hatchback),JK Tyre,Price,5336,8
+592,Kannur Town,Scooter,CEAT,Price,4297,10
+593,Kannur Town,Motorcycle,Apollo,Durability (Long Life),2390,8
+594,Mattannur,Scooter,Apollo,Price,1582,5
+595,Thalassery,Motorcycle,Apollo,Price,3107,5
+596,Kannur Town,Car (Hatchback),Apollo,Brand Trust,3243,5
+597,Mattannur,Motorcycle,JK Tyre,Price,4095,9
+598,Iritty,Car (Hatchback),CEAT,Durability (Long Life),2857,6
+599,Payyanur,Scooter,JK Tyre,Durability (Long Life),4113,7
+600,Payyanur,Scooter,Apollo,Price,5822,6
+601,Kannur Town,Motorcycle,CEAT,Road Grip,4478,8
+602,Thalassery,Motorcycle,CEAT,Price,3442,4
+603,Thalassery,Scooter,CEAT,Durability (Long Life),3280,7
+604,Iritty,Scooter,CEAT,Durability (Long Life),3071,4
+605,Kannur Town,Car (Hatchback),MRF,Durability (Long Life),4916,10
+606,Payyanur,Motorcycle,Apollo,Durability (Long Life),2747,9
+607,Thalassery,Car (Hatchback),MRF,Price,3554,8
+608,Kannur Town,Car (Sedan),Apollo,Price,3561,9
+609,Thalassery,Car (Hatchback),Apollo,Road Grip,2897,8
+610,Mattannur,Motorcycle,CEAT,Durability (Long Life),1853,4
+611,Thalassery,Scooter,Bridgestone,Brand Trust,3887,4
+612,Payyanur,Motorcycle,CEAT,Brand Trust,3426,4
+613,Taliparamba,Motorcycle,CEAT,Brand Trust,4100,8
+614,Iritty,Car (SUV),Apollo,Durability (Long Life),2859,5
+615,Iritty,Motorcycle,CEAT,Price,4964,4
+616,Payyanur,Scooter,MRF,Road Grip,2447,9
+617,Thalassery,Car (Hatchback),MRF,Durability (Long Life),5554,10
+618,Kannur Town,Car (Hatchback),Apollo,Price,1402,7
+619,Thalassery,Car (Hatchback),Apollo,Brand Trust,4021,8
+620,Payyanur,Motorcycle,MRF,Brand Trust,4070,9
+621,Iritty,Scooter,MRF,Durability (Long Life),2545,6
+622,Thalassery,Car (Hatchback),MRF,Price,4009,10
+623,Iritty,Motorcycle,Bridgestone,Price,5035,6
+624,Kannur Town,Scooter,Apollo,Brand Trust,839,7
+625,Iritty,Motorcycle,Apollo,Mechanic Advice,4103,5
+626,Iritty,Motorcycle,MRF,Price,508,4
+627,Taliparamba,Scooter,CEAT,Price,2341,8
+628,Taliparamba,Motorcycle,MRF,Brand Trust,5454,9
+629,Mattannur,Car (Hatchback),MRF,Price,2801,4
+630,Taliparamba,Car (Hatchback),Apollo,Durability (Long Life),2091,9
+631,Iritty,Car (Sedan),MRF,Mechanic Advice,3262,8
+632,Payyanur,Motorcycle,MRF,Price,5981,6
+633,Iritty,Motorcycle,MRF,Durability (Long Life),1301,4
+634,Payyanur,Motorcycle,MRF,Price,2238,7
+635,Payyanur,Car (Hatchback),MRF,Price,5296,5
+636,Taliparamba,Car (Hatchback),Apollo,Brand Trust,5729,7
+637,Thalassery,Motorcycle,JK Tyre,Durability (Long Life),3375,5
+638,Kannur Town,Car (SUV),CEAT,Mechanic Advice,2013,10
+639,Taliparamba,Motorcycle,Apollo,Durability (Long Life),6015,9
+640,Taliparamba,Car (Hatchback),MRF,Price,5413,4
+641,Thalassery,Car (Hatchback),Michelin,Price,4314,4
+642,Kannur Town,Car (Sedan),Apollo,Price,2525,10
+643,Iritty,Car (Hatchback),MRF,Price,3441,5
+644,Mattannur,Car (Sedan),CEAT,Price,3307,6
+645,Mattannur,Scooter,MRF,Price,3897,8
+646,Iritty,Car (Sedan),Apollo,Durability (Long Life),5241,7
+647,Taliparamba,Motorcycle,Apollo,Road Grip,4555,10
+648,Kannur Town,Car (Sedan),JK Tyre,Durability (Long Life),2207,9
+649,Taliparamba,Car (Hatchback),Apollo,Road Grip,5151,10
+650,Payyanur,Car (Sedan),CEAT,Price,3875,7
+651,Taliparamba,Scooter,Bridgestone,Price,4324,7
+652,Taliparamba,Car (Hatchback),MRF,Durability (Long Life),5259,9
+653,Iritty,Car (Hatchback),MRF,Durability (Long Life),2166,9
+654,Iritty,Car (Hatchback),Apollo,Price,3457,4
+655,Iritty,Motorcycle,Apollo,Brand Trust,2862,7
+656,Mattannur,Motorcycle,Apollo,Road Grip,1618,8
+657,Payyanur,Motorcycle,Michelin,Durability (Long Life),3916,8
+658,Iritty,Motorcycle,CEAT,Price,6513,5
+659,Kannur Town,Car (Sedan),CEAT,Road Grip,1291,10
+660,Mattannur,Motorcycle,Apollo,Durability (Long Life),3461,9
+661,Thalassery,Car (SUV),JK Tyre,Road Grip,4268,4
+662,Kannur Town,Scooter,Bridgestone,Road Grip,3647,8
+663,Kannur Town,Motorcycle,JK Tyre,Brand Trust,3364,6
+664,Iritty,Car (Hatchback),MRF,Durability (Long Life),1940,4
+665,Thalassery,Car (Hatchback),CEAT,Price,3779,4
+666,Thalassery,Scooter,MRF,Durability (Long Life),2591,8
+667,Mattannur,Car (Hatchback),MRF,Durability (Long Life),872,6
+668,Thalassery,Car (Hatchback),MRF,Road Grip,4933,5
+669,Payyanur,Motorcycle,CEAT,Price,4650,8
+670,Iritty,Car (SUV),CEAT,Price,3561,6
+671,Thalassery,Car (SUV),MRF,Brand Trust,3774,4
+672,Mattannur,Car (Hatchback),Apollo,Road Grip,4789,6
+673,Payyanur,Motorcycle,Apollo,Mechanic Advice,3769,4
+674,Taliparamba,Car (Hatchback),Apollo,Road Grip,4584,10
+675,Taliparamba,Motorcycle,MRF,Durability (Long Life),3143,8
+676,Payyanur,Motorcycle,Apollo,Durability (Long Life),5074,9
+677,Mattannur,Motorcycle,JK Tyre,Brand Trust,3884,8
+678,Payyanur,Scooter,MRF,Durability (Long Life),3732,10
+679,Iritty,Car (Sedan),MRF,Durability (Long Life),1975,7
+680,Iritty,Car (Hatchback),Apollo,Price,3844,7
+681,Taliparamba,Car (Hatchback),Michelin,Durability (Long Life),2501,7
+682,Thalassery,Scooter,CEAT,Road Grip,2734,8
+683,Mattannur,Scooter,CEAT,Price,2521,5
+684,Taliparamba,Scooter,Apollo,Price,2220,8
+685,Thalassery,Car (SUV),CEAT,Price,6049,10
+686,Thalassery,Motorcycle,MRF,Price,5097,10
+687,Iritty,Car (Sedan),CEAT,Price,5804,9
+688,Kannur Town,Car (Hatchback),Michelin,Durability (Long Life),2032,6
+689,Kannur Town,Scooter,CEAT,Mechanic Advice,3585,8
+690,Payyanur,Car (Hatchback),JK Tyre,Durability (Long Life),1947,8
+691,Iritty,Scooter,CEAT,Price,2665,4
+692,Thalassery,Car (Sedan),MRF,Price,2398,10
+693,Mattannur,Car (SUV),Michelin,Durability (Long Life),4987,4
+694,Kannur Town,Scooter,MRF,Price,3024,4
+695,Thalassery,Motorcycle,Apollo,Brand Trust,4782,8
+696,Kannur Town,Car (Hatchback),MRF,Durability (Long Life),4224,5
+697,Kannur Town,Car (SUV),MRF,Road Grip,6264,6
+698,Kannur Town,Motorcycle,Apollo,Price,1724,6
+699,Mattannur,Car (Hatchback),MRF,Durability (Long Life),5011,10
+700,Iritty,Car (Hatchback),Apollo,Price,4875,9
+701,Mattannur,Car (Hatchback),CEAT,Mechanic Advice,2331,10
+702,Taliparamba,Motorcycle,MRF,Durability (Long Life),4708,5
+703,Thalassery,Car (Hatchback),MRF,Price,3903,5
+704,Iritty,Car (SUV),CEAT,Price,3227,6
+705,Iritty,Motorcycle,Apollo,Price,2511,7
+706,Iritty,Motorcycle,CEAT,Durability (Long Life),2637,4
+707,Iritty,Car (SUV),CEAT,Price,5959,4
+708,Mattannur,Motorcycle,JK Tyre,Durability (Long Life),3500,6
+709,Iritty,Car (Sedan),CEAT,Price,4438,10
+710,Payyanur,Scooter,Apollo,Durability (Long Life),2550,5
+711,Thalassery,Motorcycle,CEAT,Brand Trust,2564,10
+712,Iritty,Car (Sedan),MRF,Road Grip,4798,9
+713,Thalassery,Scooter,Apollo,Road Grip,1880,7
+714,Payyanur,Car (Hatchback),JK Tyre,Price,3001,6
+715,Payyanur,Scooter,Apollo,Price,3540,4
+716,Thalassery,Car (Hatchback),JK Tyre,Durability (Long Life),3633,8
+717,Kannur Town,Motorcycle,JK Tyre,Price,3285,10
+718,Taliparamba,Scooter,JK Tyre,Durability (Long Life),3974,5
+719,Kannur Town,Car (SUV),Michelin,Price,4331,8
+720,Kannur Town,Motorcycle,Apollo,Price,4381,9
+721,Mattannur,Car (Hatchback),Apollo,Price,2317,6
+722,Kannur Town,Scooter,CEAT,Brand Trust,3159,10
+723,Iritty,Car (Hatchback),Apollo,Price,4933,4
+724,Mattannur,Motorcycle,CEAT,Durability (Long Life),4573,10
+725,Mattannur,Car (SUV),CEAT,Price,1852,7
+726,Payyanur,Scooter,CEAT,Durability (Long Life),3921,8
+727,Kannur Town,Motorcycle,Apollo,Price,1126,7
+728,Payyanur,Motorcycle,MRF,Brand Trust,3556,9
+729,Thalassery,Motorcycle,Apollo,Brand Trust,5777,4
+730,Taliparamba,Car (Hatchback),MRF,Price,2362,8
+731,Mattannur,Scooter,JK Tyre,Mechanic Advice,2498,9
+732,Thalassery,Car (Sedan),Apollo,Mechanic Advice,4416,7
+733,Thalassery,Scooter,MRF,Brand Trust,1648,7
+734,Iritty,Motorcycle,MRF,Brand Trust,2740,8
+735,Taliparamba,Car (Hatchback),CEAT,Price,4215,4
+736,Thalassery,Car (Hatchback),CEAT,Durability (Long Life),2738,7
+737,Thalassery,Motorcycle,Apollo,Price,3216,6
+738,Taliparamba,Motorcycle,MRF,Price,4393,9
+739,Taliparamba,Motorcycle,Apollo,Mechanic Advice,4005,8
+740,Thalassery,Car (Hatchback),Apollo,Price,3820,5
+741,Taliparamba,Car (Hatchback),CEAT,Road Grip,3093,5
+742,Thalassery,Scooter,CEAT,Brand Trust,3944,4
+743,Thalassery,Car (Sedan),Apollo,Brand Trust,3351,6
+744,Iritty,Car (Sedan),MRF,Mechanic Advice,4049,7
+745,Kannur Town,Car (Hatchback),Bridgestone,Price,2903,5
+746,Thalassery,Car (Sedan),Apollo,Price,3280,4
+747,Payyanur,Motorcycle,CEAT,Durability (Long Life),2312,9
+748,Mattannur,Motorcycle,MRF,Price,3457,6
+749,Kannur Town,Motorcycle,Apollo,Price,2526,6
+750,Kannur Town,Motorcycle,MRF,Price,2163,10
+751,Kannur Town,Car (Hatchback),Apollo,Road Grip,3810,4
+752,Iritty,Car (SUV),Bridgestone,Durability (Long Life),3755,4
+753,Thalassery,Motorcycle,Apollo,Price,4439,10
+754,Iritty,Motorcycle,MRF,Durability (Long Life),2982,7
+755,Thalassery,Scooter,MRF,Price,3989,4
+756,Iritty,Car (SUV),Apollo,Price,4160,10
+757,Iritty,Scooter,MRF,Road Grip,4033,7
+758,Mattannur,Car (Hatchback),MRF,Durability (Long Life),2509,7
+759,Payyanur,Motorcycle,JK Tyre,Road Grip,3679,8
+760,Iritty,Motorcycle,Apollo,Price,3936,6
+761,Mattannur,Car (SUV),MRF,Brand Trust,3508,9
+762,Taliparamba,Car (SUV),Michelin,Durability (Long Life),996,6
+763,Payyanur,Motorcycle,MRF,Durability (Long Life),3692,6
+764,Iritty,Car (SUV),Bridgestone,Durability (Long Life),6155,8
+765,Kannur Town,Car (Hatchback),Apollo,Brand Trust,3067,7
+766,Taliparamba,Car (Sedan),JK Tyre,Durability (Long Life),2626,7
+767,Taliparamba,Scooter,CEAT,Durability (Long Life),3948,4
+768,Mattannur,Car (Hatchback),JK Tyre,Mechanic Advice,3874,8
+769,Taliparamba,Scooter,Bridgestone,Road Grip,4931,4
+770,Payyanur,Car (Hatchback),MRF,Durability (Long Life),1990,8
+771,Iritty,Motorcycle,Bridgestone,Road Grip,4377,4
+772,Iritty,Motorcycle,Apollo,Price,4208,5
+773,Kannur Town,Scooter,Apollo,Price,3329,10
+774,Mattannur,Car (Hatchback),Apollo,Durability (Long Life),3906,6
+775,Kannur Town,Motorcycle,Apollo,Mechanic Advice,4735,6
+776,Taliparamba,Car (Hatchback),MRF,Mechanic Advice,4546,9
+777,Kannur Town,Car (SUV),CEAT,Price,2128,10
+778,Payyanur,Motorcycle,Apollo,Durability (Long Life),4484,7
+779,Iritty,Car (Hatchback),JK Tyre,Price,3422,9
+780,Taliparamba,Scooter,JK Tyre,Mechanic Advice,3587,5
+781,Kannur Town,Car (Sedan),Apollo,Mechanic Advice,3587,9
+782,Mattannur,Motorcycle,Apollo,Durability (Long Life),3319,6
+783,Payyanur,Car (Hatchback),MRF,Brand Trust,4930,7
+784,Payyanur,Car (Sedan),MRF,Road Grip,3399,5
+785,Kannur Town,Car (SUV),MRF,Durability (Long Life),2156,6
+786,Iritty,Car (Hatchback),Apollo,Price,3027,10
+787,Kannur Town,Scooter,MRF,Durability (Long Life),3714,4
+788,Taliparamba,Car (Hatchback),Bridgestone,Durability (Long Life),4975,8
+789,Kannur Town,Car (Sedan),CEAT,Durability (Long Life),4223,5
+790,Payyanur,Car (Hatchback),Apollo,Price,2479,7
+791,Kannur Town,Motorcycle,CEAT,Mechanic Advice,6482,9
+792,Iritty,Car (SUV),MRF,Price,3817,10
+793,Mattannur,Car (Hatchback),Apollo,Durability (Long Life),5030,9
+794,Thalassery,Car (Hatchback),CEAT,Durability (Long Life),3317,5
+795,Kannur Town,Motorcycle,Apollo,Durability (Long Life),4140,10
+796,Iritty,Car (Hatchback),Apollo,Durability (Long Life),4507,7
+797,Iritty,Scooter,Bridgestone,Price,4961,5
+798,Mattannur,Car (Hatchback),JK Tyre,Price,4768,7
+799,Payyanur,Motorcycle,CEAT,Durability (Long Life),4546,9
+800,Iritty,Car (Hatchback),CEAT,Durability (Long Life),3121,6
+801,Iritty,Car (SUV),CEAT,Price,2813,10
+802,Iritty,Motorcycle,MRF,Road Grip,3899,4
+803,Iritty,Car (SUV),Apollo,Durability (Long Life),4619,6
+804,Taliparamba,Scooter,MRF,Durability (Long Life),3232,4
+805,Taliparamba,Car (Sedan),Apollo,Brand Trust,4778,9
+806,Payyanur,Car (Hatchback),Apollo,Price,5243,10
+807,Kannur Town,Car (Hatchback),MRF,Price,2400,6
+808,Iritty,Car (Hatchback),Bridgestone,Road Grip,2495,6
+809,Mattannur,Car (Sedan),Michelin,Durability (Long Life),3331,5
+810,Kannur Town,Scooter,CEAT,Durability (Long Life),3869,8
+811,Mattannur,Scooter,Apollo,Brand Trust,2870,9
+812,Kannur Town,Car (Hatchback),JK Tyre,Brand Trust,5122,7
+813,Payyanur,Car (Sedan),MRF,Mechanic Advice,4008,9
+814,Iritty,Car (Hatchback),JK Tyre,Durability (Long Life),3547,7
+815,Iritty,Car (Hatchback),MRF,Durability (Long Life),1776,10
+816,Thalassery,Scooter,JK Tyre,Durability (Long Life),1921,7
+817,Mattannur,Car (Sedan),MRF,Price,3837,4
+818,Kannur Town,Motorcycle,JK Tyre,Durability (Long Life),940,7
+819,Kannur Town,Car (Hatchback),Michelin,Price,4715,7
+820,Taliparamba,Motorcycle,MRF,Mechanic Advice,3310,5
+821,Thalassery,Scooter,Apollo,Durability (Long Life),7391,6
+822,Taliparamba,Scooter,Bridgestone,Durability (Long Life),6269,9
+823,Taliparamba,Scooter,Apollo,Price,3282,9
+824,Taliparamba,Car (Hatchback),JK Tyre,Price,3372,10
+825,Mattannur,Scooter,CEAT,Price,4694,10
+826,Mattannur,Scooter,Apollo,Durability (Long Life),5543,7
+827,Payyanur,Motorcycle,MRF,Price,1534,8
+828,Payyanur,Scooter,MRF,Durability (Long Life),1356,9
+829,Taliparamba,Motorcycle,JK Tyre,Brand Trust,2753,10
+830,Thalassery,Motorcycle,Apollo,Brand Trust,4199,7
+831,Kannur Town,Car (Hatchback),Apollo,Durability (Long Life),4096,10
+832,Mattannur,Car (Hatchback),Apollo,Price,4783,4
+833,Thalassery,Car (Hatchback),CEAT,Brand Trust,2060,4
+834,Iritty,Scooter,JK Tyre,Brand Trust,720,10
+835,Mattannur,Scooter,Bridgestone,Price,4529,4
+836,Mattannur,Car (Sedan),Apollo,Road Grip,2506,10
+837,Payyanur,Car (Hatchback),JK Tyre,Price,1077,7
+838,Kannur Town,Scooter,JK Tyre,Brand Trust,3674,5
+839,Kannur Town,Motorcycle,CEAT,Mechanic Advice,4451,8
+840,Iritty,Scooter,Bridgestone,Price,3353,7
+841,Iritty,Scooter,MRF,Brand Trust,2950,5
+842,Mattannur,Scooter,MRF,Durability (Long Life),3308,5
+843,Taliparamba,Car (Hatchback),JK Tyre,Mechanic Advice,3055,9
+844,Payyanur,Car (Hatchback),Apollo,Durability (Long Life),1882,7
+845,Payyanur,Car (Hatchback),JK Tyre,Brand Trust,2642,7
+846,Mattannur,Car (Hatchback),JK Tyre,Price,4125,10
+847,Thalassery,Car (Sedan),MRF,Price,3886,5
+848,Taliparamba,Car (Hatchback),JK Tyre,Price,3701,5
+849,Mattannur,Car (SUV),Apollo,Mechanic Advice,2305,5
+850,Taliparamba,Motorcycle,Apollo,Brand Trust,3282,10
+851,Taliparamba,Motorcycle,CEAT,Brand Trust,887,9
+852,Taliparamba,Motorcycle,Michelin,Mechanic Advice,3714,7
+853,Mattannur,Car (Hatchback),MRF,Price,5214,5
+854,Payyanur,Car (Sedan),Apollo,Price,1731,4
+855,Payyanur,Motorcycle,CEAT,Price,2796,7
+856,Taliparamba,Car (SUV),CEAT,Price,3894,10
+857,Thalassery,Motorcycle,CEAT,Price,5003,9
+858,Kannur Town,Car (SUV),MRF,Durability (Long Life),2962,4
+859,Mattannur,Scooter,MRF,Price,2669,10
+860,Kannur Town,Motorcycle,Apollo,Price,1137,6
+861,Thalassery,Scooter,JK Tyre,Price,3624,7
+862,Mattannur,Motorcycle,MRF,Price,5950,6
+863,Taliparamba,Motorcycle,MRF,Mechanic Advice,3832,10
+864,Payyanur,Scooter,Bridgestone,Road Grip,3473,10
+865,Kannur Town,Car (Sedan),MRF,Mechanic Advice,3886,10
+866,Iritty,Car (Hatchback),Bridgestone,Durability (Long Life),3486,5
+867,Iritty,Scooter,CEAT,Price,2524,9
+868,Thalassery,Car (Hatchback),JK Tyre,Road Grip,4487,5
+869,Taliparamba,Car (Hatchback),MRF,Price,3770,9
+870,Kannur Town,Motorcycle,MRF,Price,3521,8
+871,Taliparamba,Scooter,CEAT,Price,2329,5
+872,Kannur Town,Motorcycle,JK Tyre,Price,5064,6
+873,Thalassery,Motorcycle,CEAT,Price,4297,9
+874,Thalassery,Car (Hatchback),MRF,Price,2836,5
+875,Iritty,Motorcycle,JK Tyre,Durability (Long Life),4702,7
+876,Taliparamba,Car (Hatchback),JK Tyre,Price,2902,10
+877,Mattannur,Car (Hatchback),CEAT,Price,2561,9
+878,Iritty,Motorcycle,JK Tyre,Brand Trust,2588,9
+879,Taliparamba,Car (Hatchback),JK Tyre,Price,1374,5
+880,Iritty,Motorcycle,CEAT,Price,4065,8
+881,Mattannur,Car (SUV),MRF,Brand Trust,1302,5
+882,Payyanur,Scooter,Apollo,Price,2025,6
+883,Payyanur,Car (Sedan),MRF,Price,1009,6
+884,Payyanur,Car (Hatchback),Apollo,Durability (Long Life),3396,9
+885,Payyanur,Motorcycle,Apollo,Price,3319,9
+886,Kannur Town,Car (Hatchback),MRF,Durability (Long Life),3107,5
+887,Payyanur,Car (SUV),Apollo,Brand Trust,2248,6
+888,Mattannur,Car (Hatchback),MRF,Price,2093,6
+889,Thalassery,Car (Sedan),JK Tyre,Durability (Long Life),4057,8
+890,Thalassery,Car (Sedan),Michelin,Durability (Long Life),2839,7
+891,Kannur Town,Motorcycle,MRF,Price,3879,8
+892,Payyanur,Motorcycle,Bridgestone,Durability (Long Life),2437,4
+893,Payyanur,Car (Hatchback),Apollo,Price,3717,10
+894,Payyanur,Scooter,MRF,Durability (Long Life),5063,8
+895,Iritty,Car (Sedan),MRF,Price,4203,5
+896,Taliparamba,Car (SUV),Apollo,Durability (Long Life),3005,7
+897,Iritty,Scooter,JK Tyre,Price,3808,5
+898,Taliparamba,Motorcycle,CEAT,Brand Trust,3211,10
+899,Payyanur,Car (Hatchback),MRF,Price,3509,4
+900,Payyanur,Motorcycle,MRF,Durability (Long Life),3109,7
+901,Iritty,Car (Sedan),Apollo,Durability (Long Life),3302,9
+902,Iritty,Scooter,MRF,Road Grip,3754,6
+903,Taliparamba,Car (Hatchback),MRF,Durability (Long Life),2307,8
+904,Thalassery,Motorcycle,MRF,Durability (Long Life),2280,5
+905,Taliparamba,Car (Hatchback),JK Tyre,Road Grip,1833,4
+906,Iritty,Scooter,Michelin,Brand Trust,1579,6
+907,Mattannur,Car (Hatchback),Apollo,Price,2039,8
+908,Iritty,Motorcycle,Michelin,Durability (Long Life),3691,6
+909,Mattannur,Car (Hatchback),Apollo,Brand Trust,2428,8
+910,Kannur Town,Car (Sedan),Apollo,Mechanic Advice,4116,9
+911,Iritty,Motorcycle,MRF,Brand Trust,3541,7
+912,Kannur Town,Motorcycle,CEAT,Price,1137,6
+913,Thalassery,Motorcycle,Bridgestone,Price,4285,6
+914,Taliparamba,Car (Hatchback),CEAT,Durability (Long Life),4472,6
+915,Mattannur,Car (Hatchback),Apollo,Road Grip,2307,7
+916,Taliparamba,Car (Hatchback),CEAT,Durability (Long Life),4004,4
+917,Kannur Town,Motorcycle,MRF,Durability (Long Life),2472,8
+918,Mattannur,Scooter,JK Tyre,Brand Trust,3617,9
+919,Taliparamba,Car (Hatchback),Apollo,Price,1982,6
+920,Iritty,Scooter,Apollo,Brand Trust,1348,10
+921,Payyanur,Car (SUV),CEAT,Durability (Long Life),3040,7
+922,Kannur Town,Motorcycle,CEAT,Price,3351,4
+923,Taliparamba,Car (Hatchback),MRF,Durability (Long Life),3022,8
+924,Kannur Town,Scooter,CEAT,Road Grip,2079,7
+925,Kannur Town,Scooter,MRF,Price,3020,9
+926,Mattannur,Car (Hatchback),CEAT,Price,3823,9
+927,Mattannur,Car (Hatchback),JK Tyre,Mechanic Advice,3446,8
+928,Payyanur,Car (SUV),JK Tyre,Price,3719,6
+929,Iritty,Motorcycle,CEAT,Durability (Long Life),2695,9
+930,Kannur Town,Motorcycle,Apollo,Durability (Long Life),4906,4
+931,Taliparamba,Car (Hatchback),MRF,Durability (Long Life),2088,7
+932,Thalassery,Car (Hatchback),JK Tyre,Durability (Long Life),4085,4
+933,Kannur Town,Motorcycle,MRF,Price,4918,6
+934,Kannur Town,Motorcycle,Apollo,Durability (Long Life),4077,4
+935,Payyanur,Motorcycle,MRF,Price,3256,4
+936,Iritty,Car (Sedan),MRF,Durability (Long Life),2866,5
+937,Thalassery,Motorcycle,CEAT,Price,4743,4
+938,Mattannur,Scooter,MRF,Durability (Long Life),1792,8
+939,Mattannur,Motorcycle,CEAT,Price,2335,7
+940,Taliparamba,Scooter,Apollo,Price,3022,5
+941,Thalassery,Motorcycle,MRF,Price,4985,7
+942,Mattannur,Car (Hatchback),Apollo,Price,3955,7
+943,Taliparamba,Motorcycle,MRF,Brand Trust,2338,6
+944,Iritty,Car (Sedan),MRF,Price,3127,6
+945,Taliparamba,Motorcycle,CEAT,Mechanic Advice,2762,5
+946,Mattannur,Car (Hatchback),MRF,Mechanic Advice,2648,9
+947,Payyanur,Car (Sedan),JK Tyre,Durability (Long Life),4674,10
+948,Payyanur,Car (Hatchback),MRF,Price,1853,6
+949,Payyanur,Car (Hatchback),MRF,Price,5430,10
+950,Mattannur,Scooter,CEAT,Road Grip,4493,6
+951,Payyanur,Scooter,Apollo,Price,4809,6
+952,Thalassery,Car (Hatchback),MRF,Price,2944,7
+953,Iritty,Car (SUV),Apollo,Durability (Long Life),3320,5
+954,Taliparamba,Car (Hatchback),MRF,Brand Trust,1780,7
+955,Taliparamba,Car (Hatchback),JK Tyre,Road Grip,2870,8
+956,Mattannur,Car (Hatchback),Apollo,Price,4092,7
+957,Payyanur,Scooter,JK Tyre,Durability (Long Life),5055,10
+958,Payyanur,Motorcycle,JK Tyre,Price,2171,10
+959,Kannur Town,Car (Hatchback),Apollo,Price,3061,8
+960,Iritty,Car (SUV),Michelin,Brand Trust,3318,4
+961,Thalassery,Motorcycle,Apollo,Price,1825,4
+962,Taliparamba,Car (Hatchback),Bridgestone,Price,4209,8
+963,Kannur Town,Motorcycle,MRF,Price,2631,8
+964,Kannur Town,Car (Hatchback),CEAT,Brand Trust,3265,7
+965,Mattannur,Motorcycle,Apollo,Road Grip,2957,8
+966,Taliparamba,Scooter,Apollo,Durability (Long Life),2552,5
+967,Mattannur,Car (Hatchback),CEAT,Road Grip,3491,4
+968,Thalassery,Scooter,CEAT,Price,3241,4
+969,Kannur Town,Car (Hatchback),MRF,Durability (Long Life),3053,9
+970,Kannur Town,Car (Hatchback),MRF,Price,2625,8
+971,Iritty,Car (SUV),CEAT,Price,3883,6
+972,Thalassery,Motorcycle,CEAT,Durability (Long Life),5484,6
+973,Kannur Town,Scooter,Bridgestone,Mechanic Advice,3667,8
+974,Thalassery,Motorcycle,JK Tyre,Price,4695,5
+975,Taliparamba,Car (SUV),Bridgestone,Price,1831,6
+976,Payyanur,Car (SUV),CEAT,Price,3689,9
+977,Kannur Town,Car (Hatchback),MRF,Price,2183,10
+978,Iritty,Car (Sedan),MRF,Mechanic Advice,1727,8
+979,Taliparamba,Car (Hatchback),JK Tyre,Durability (Long Life),2612,5
+980,Thalassery,Car (Hatchback),CEAT,Durability (Long Life),4930,5
+981,Mattannur,Motorcycle,MRF,Road Grip,4640,7
+982,Taliparamba,Car (Hatchback),Apollo,Price,3791,5
+983,Kannur Town,Motorcycle,Bridgestone,Durability (Long Life),1660,6
+984,Thalassery,Car (Sedan),Apollo,Durability (Long Life),3264,10
+985,Payyanur,Car (Hatchback),Apollo,Durability (Long Life),3862,6
+986,Taliparamba,Car (Hatchback),Apollo,Mechanic Advice,3710,8
+987,Kannur Town,Motorcycle,MRF,Road Grip,1287,10
+988,Iritty,Scooter,Apollo,Price,2431,8
+989,Mattannur,Motorcycle,Apollo,Brand Trust,3423,5
+990,Thalassery,Scooter,MRF,Price,4143,9
+991,Taliparamba,Motorcycle,JK Tyre,Price,864,4
+992,Taliparamba,Car (SUV),Apollo,Price,3305,10
+993,Payyanur,Car (Hatchback),JK Tyre,Price,3671,7
+994,Payyanur,Scooter,JK Tyre,Durability (Long Life),4519,4
+995,Iritty,Scooter,MRF,Durability (Long Life),4331,5
+996,Mattannur,Scooter,CEAT,Mechanic Advice,4199,5
+997,Iritty,Car (Hatchback),Apollo,Durability (Long Life),2540,4
+998,Kannur Town,Car (Hatchback),JK Tyre,Durability (Long Life),1210,7
+999,Kannur Town,Car (SUV),MRF,Price,3028,10
+1000,Iritty,Scooter,CEAT,Price,4701,10
